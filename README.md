@@ -2,6 +2,8 @@
 This a Linear Regression implementation from scratch in rust
 I have used the following formula:
 ![image](https://github.com/Rithvik119am/Linear_Regresstion_in_rust/assets/120341869/272d63c6-596d-4644-b982-42655d11a79b)
+
+
 There is a example code on how to use it:
 ```mod linear_regression;
 use linear_regression::LinearRegression;
